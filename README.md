@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arhammukhtar
+- 👀 I’m interested in data engineering, python programming, sql databases.
+- 🌱 I’m currently learning Apache Spark and Apache Airflow
